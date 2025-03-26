@@ -1,4 +1,4 @@
-package dev.santanderdevweek2023.model;
+package me.dio.domain.model;
 
 import jakarta.persistence.Entity;
 
